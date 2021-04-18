@@ -1,0 +1,2902 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/aviha/Desktop/פיתוח משחקים/projects/for daniel
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56333
+Successfully changed project path to: C:/Users/aviha/Desktop/פיתוח משחקים/projects/for daniel
+C:/Users/aviha/Desktop/פיתוח משחקים/projects/for daniel
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 77.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aviha/Desktop/פיתוח משחקים/projects/for daniel/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     4046 MB
+    Driver:   26.20.100.8142
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004113 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.787 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.130 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 17.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 3.577800 ms (FindLiveObjects: 0.380900 ms CreateObjectMapping: 0.103400 ms MarkObjects: 2.888000 ms  DeleteObjects: 0.200800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b78532871bb27dd8875c42105bfe93c') in 0.271654 seconds
+  Import took 0.278490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001263 seconds.
+  path: Assets/Prefabs/Projector.prefab
+  artifactKey: Guid(3b35d457779a38e448b7c2de88b7c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Projector.prefab using Guid(3b35d457779a38e448b7c2de88b7c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e74fd82e30973b74d40d36dafd5f8d') in 0.126843 seconds
+  Import took 0.135233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000825 seconds.
+  path: Assets/Prefabs/Grave Yard.prefab
+  artifactKey: Guid(22ee5613eaa34d0429d27c95b014c8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Grave Yard.prefab using Guid(22ee5613eaa34d0429d27c95b014c8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2080c88eb0520db04f2cc75f2cf8370d') in 0.181021 seconds
+  Import took 0.187618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38ab92b20fc57fcdbd6bef6e650526a') in 0.593709 seconds
+  Import took 0.602329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.211477 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752354f427f0c91364f580d21ea9862b') in 0.163752 seconds
+  Import took 0.175112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.130768 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5834d3d8f563a83e16e11ce9124ea3') in 0.139347 seconds
+  Import took 0.149155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.936483 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261f64a3d21a9d6f5aa0618342848f1c') in 0.203954 seconds
+  Import took 0.211787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.541747 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400210ad5ac6990c7d74addb87c7d064') in 0.135120 seconds
+  Import took 0.151253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 421.603440 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6c84e3bb8e0a063d2ba2aff07aea13') in 0.098458 seconds
+  Import took 0.107319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002889 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6c84e3bb8e0a063d2ba2aff07aea13') in 0.094409 seconds
+  Import took 0.099210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.809449 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96d45034854542076739556a41961d1') in 0.091958 seconds
+  Import took 0.102684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.345308 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c60e847b6ec0aa851558fd741384b1') in 0.116994 seconds
+  Import took 0.126534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.131832 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2209a6862203e40f5cf8841c094cfc') in 0.091851 seconds
+  Import took 0.103592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.377598 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcedf210539cc8ae464d5dac47200460') in 0.264505 seconds
+  Import took 0.279331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 226.357121 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'cdef628fb66bbbdee4a427a702bfb4e7') in 0.098047 seconds
+  Import took 0.122637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 392.694757 seconds.
+  path: Assets/Animations/Door Open Animation.anim
+  artifactKey: Guid(8f0edb6b103f38a4db8dea4d7db67a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door Open Animation.anim using Guid(8f0edb6b103f38a4db8dea4d7db67a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b08e56fa06c7d8817e754622dd3e3a') in 0.039254 seconds
+  Import took 0.045021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.070081 seconds.
+  path: Assets/Animations/Door Axis.controller
+  artifactKey: Guid(94e16a14a1ec68145a9c2550b8a8feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door Axis.controller using Guid(94e16a14a1ec68145a9c2550b8a8feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0516b0e881062d9d4465aa3f25ad93') in 0.044844 seconds
+  Import took 0.050511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.878593 seconds.
+  path: Assets/Animations/Open Door Animation.anim
+  artifactKey: Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Door Animation.anim using Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be15a90db483312caabb1f0478c294c') in 0.045902 seconds
+  Import took 0.049574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Animations/Open Door Animation.anim
+  artifactKey: Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Door Animation.anim using Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be15a90db483312caabb1f0478c294c') in 0.038510 seconds
+  Import took 0.048486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 768.623443 seconds.
+  path: Assets/Animations/Close Door Animation.anim
+  artifactKey: Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Door Animation.anim using Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c483b0df7dc3f9b129679134287e36') in 0.029905 seconds
+  Import took 0.035930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002334 seconds.
+  path: Assets/Animations/Close Door Animation.anim
+  artifactKey: Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Door Animation.anim using Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c483b0df7dc3f9b129679134287e36') in 0.024373 seconds
+  Import took 0.034315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 400.118462 seconds.
+  path: Assets/Materials/door texture.mat
+  artifactKey: Guid(3a0410873b923684f9039f5b8fee2fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/door texture.mat using Guid(3a0410873b923684f9039f5b8fee2fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a38776942271b11db77b29b802ca06') in 0.107332 seconds
+  Import took 0.120148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Materials/wood texture.mat
+  artifactKey: Guid(5d162a8d3c212fe45ba60efc92c540a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wood texture.mat using Guid(5d162a8d3c212fe45ba60efc92c540a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d28f6f572c9f2f9bfaf88ef775384d9') in 0.115809 seconds
+  Import took 0.120125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Materials/LightMaterial.mat
+  artifactKey: Guid(6a0c177cdb3e56045ad20dc6b19f60a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/LightMaterial.mat using Guid(6a0c177cdb3e56045ad20dc6b19f60a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40d3cb6fa2b7c2e8ad62715020e555e') in 0.075039 seconds
+  Import took 0.078472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Materials/tombstone texture.mat
+  artifactKey: Guid(95f0dab0c42f3cd418838cad9af43c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/tombstone texture.mat using Guid(95f0dab0c42f3cd418838cad9af43c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976f583a6be55b2ff36cb8cc6ed72fe2') in 0.095883 seconds
+  Import took 0.098947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Materials/tomb texture.mat
+  artifactKey: Guid(10977b955dceb2748a1410d1b9a5b45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/tomb texture.mat using Guid(10977b955dceb2748a1410d1b9a5b45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14696428aa64807b3fbc9792a67addb6') in 0.086924 seconds
+  Import took 0.091714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Materials/grass texture.mat
+  artifactKey: Guid(bae86120afa831146b0634a2c8db8a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/grass texture.mat using Guid(bae86120afa831146b0634a2c8db8a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8d97ef602fe3d5f6246b74352fcaec') in 0.089101 seconds
+  Import took 0.093774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Materials/metal texture.mat
+  artifactKey: Guid(c737b44a003f4e74889383a3fa658228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/metal texture.mat using Guid(c737b44a003f4e74889383a3fa658228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546eb450e3c46c80dd4771c5d4d9d253') in 0.071375 seconds
+  Import took 0.074385 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003383 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1604.
+Total: 6.836600 ms (FindLiveObjects: 0.391800 ms CreateObjectMapping: 0.208800 ms MarkObjects: 6.014700 ms  DeleteObjects: 0.217600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.860798 seconds.
+  path: Assets/Scripts/Movement.cs
+  artifactKey: Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement.cs using Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbfa1488a8e928a8961b40c134a8a3fe') in 0.116233 seconds
+  Import took 0.136634 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001056 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 2.227400 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.053300 ms MarkObjects: 1.911200 ms  DeleteObjects: 0.071100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 2.076400 ms (FindLiveObjects: 0.151900 ms CreateObjectMapping: 0.042500 ms MarkObjects: 1.821900 ms  DeleteObjects: 0.058800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.6 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 2.697300 ms (FindLiveObjects: 0.341400 ms CreateObjectMapping: 0.111600 ms MarkObjects: 2.156500 ms  DeleteObjects: 0.084800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001730 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.109 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 3.077300 ms (FindLiveObjects: 0.250700 ms CreateObjectMapping: 0.091500 ms MarkObjects: 2.664900 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.328 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 2.322100 ms (FindLiveObjects: 0.351600 ms CreateObjectMapping: 0.109500 ms MarkObjects: 1.791100 ms  DeleteObjects: 0.067800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.231 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 3.583800 ms (FindLiveObjects: 0.286100 ms CreateObjectMapping: 0.083400 ms MarkObjects: 3.115200 ms  DeleteObjects: 0.096800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.256 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 9.903100 ms (FindLiveObjects: 1.561700 ms CreateObjectMapping: 0.480300 ms MarkObjects: 7.362800 ms  DeleteObjects: 0.491000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 3.463400 ms (FindLiveObjects: 0.372800 ms CreateObjectMapping: 0.087200 ms MarkObjects: 2.873000 ms  DeleteObjects: 0.127000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.259700 ms (FindLiveObjects: 0.174300 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.932400 ms  DeleteObjects: 0.091400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.620 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 2.465800 ms (FindLiveObjects: 0.433700 ms CreateObjectMapping: 0.086900 ms MarkObjects: 1.878900 ms  DeleteObjects: 0.063700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.779 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 3.287900 ms (FindLiveObjects: 0.281000 ms CreateObjectMapping: 0.061100 ms MarkObjects: 2.848800 ms  DeleteObjects: 0.094900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001170 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.408 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 5.146200 ms (FindLiveObjects: 0.404100 ms CreateObjectMapping: 0.151200 ms MarkObjects: 4.396400 ms  DeleteObjects: 0.189400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 818.214618 seconds.
+  path: Assets/Scripts/Door Anim.cs
+  artifactKey: Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door Anim.cs using Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5f24b02174a14440f5dc4c50264d46') in 0.332263 seconds
+  Import took 0.402379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001758 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.448 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 3.065300 ms (FindLiveObjects: 0.194100 ms CreateObjectMapping: 0.055200 ms MarkObjects: 2.742300 ms  DeleteObjects: 0.071900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001841 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 4.715200 ms (FindLiveObjects: 0.445100 ms CreateObjectMapping: 0.234400 ms MarkObjects: 3.956500 ms  DeleteObjects: 0.076300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.985244 seconds.
+  path: Assets/Scripts/Door Anim.cs
+  artifactKey: Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door Anim.cs using Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd29f89a978d9f071f965a34ed6c18f') in 0.020760 seconds
+  Import took 0.024385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.852707 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '9d0f52d29ede06cb40457fa990b79003') in 0.099905 seconds
+  Import took 0.103362 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.362900 ms (FindLiveObjects: 0.273900 ms CreateObjectMapping: 0.075300 ms MarkObjects: 1.944300 ms  DeleteObjects: 0.066600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.250 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 2.632200 ms (FindLiveObjects: 0.350400 ms CreateObjectMapping: 0.152300 ms MarkObjects: 2.055800 ms  DeleteObjects: 0.071700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.118703 seconds.
+  path: Assets/Scripts/Door Anim.cs
+  artifactKey: Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door Anim.cs using Guid(e14fa57f7bd15274e929d377fdf63bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45dd308f3a5b2b652be7b081c332838') in 0.012374 seconds
+  Import took 0.015829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.620765 seconds.
+  path: Assets/Scripts/Movement.cs
+  artifactKey: Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement.cs using Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93febd1feb7e3ffed25e74e304e9dab') in 0.016655 seconds
+  Import took 0.022775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001008 seconds.
+  path: Assets/Scripts/Movement.cs
+  artifactKey: Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement.cs using Guid(65db5fccfef0b074b965c453983f3fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93febd1feb7e3ffed25e74e304e9dab') in 0.018419 seconds
+  Import took 0.026118 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004165 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.080 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 6.154000 ms (FindLiveObjects: 0.791400 ms CreateObjectMapping: 0.124700 ms MarkObjects: 4.993100 ms  DeleteObjects: 0.238500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.305538 seconds.
+  path: Assets/Scripts/DoorAnim.cs
+  artifactKey: Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorAnim.cs using Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514fa8b407aaa37cd2140bf3ef06c588') in 0.058909 seconds
+  Import took 0.077305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042544 seconds.
+  path: Assets/Scripts/DoorAnim.cs
+  artifactKey: Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorAnim.cs using Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514fa8b407aaa37cd2140bf3ef06c588') in 0.069830 seconds
+  Import took 0.087137 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001879 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.354 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 5.139100 ms (FindLiveObjects: 0.778500 ms CreateObjectMapping: 0.365000 ms MarkObjects: 3.872700 ms  DeleteObjects: 0.119100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 3.569400 ms (FindLiveObjects: 0.379600 ms CreateObjectMapping: 0.130600 ms MarkObjects: 2.978700 ms  DeleteObjects: 0.077900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.820239 seconds.
+  path: Assets/Scripts/DoorAnim.cs
+  artifactKey: Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorAnim.cs using Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba55b7747d1c8766598606764454edf') in 0.023589 seconds
+  Import took 0.035631 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 2.460600 ms (FindLiveObjects: 0.212400 ms CreateObjectMapping: 0.084300 ms MarkObjects: 2.094500 ms  DeleteObjects: 0.067400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.277647 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'a0b91b36779a9d615dbbcfb4bc9294aa') in 0.152828 seconds
+  Import took 0.160155 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003178 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.8 MB.
+System memory in use after: 61.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 1.663600 ms (FindLiveObjects: 0.150500 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.413400 ms  DeleteObjects: 0.063100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.525788 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1c1a2af13a553d11235abaece0a4e9') in 0.301534 seconds
+  Import took 0.311502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464617241c89adfa4f97c13867dad611') in 0.061582 seconds
+  Import took 0.067966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.103839 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'e9a0d736d1d02326cc0f00973c9aa3a2') in 0.161676 seconds
+  Import took 0.169319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '7ee437ba28b45d2585f454dc62a0025d') in 0.068766 seconds
+  Import took 0.074247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.559887 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'b530e2d03a1435ce0c15e18ec5fd9453') in 0.180657 seconds
+  Import took 0.193661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '0a4f7b0bcddf5d2f59494a7a442b36e6') in 0.061527 seconds
+  Import took 0.065788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.177976 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '729d3e0596f53610604d4c25ae18b4c3') in 0.194866 seconds
+  Import took 0.208330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '50b982e4add6a2cc086123817f1def64') in 0.085823 seconds
+  Import took 0.091342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.278456 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '747031133f56d3d19714e56655830a07') in 0.179123 seconds
+  Import took 0.188026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '79edb5aff2a36931ca045347268900ba') in 0.094331 seconds
+  Import took 0.100098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.913240 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '154107e68d19723a046cd5b77643fb57') in 0.152311 seconds
+  Import took 0.164237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '551d8495610eadcfded35d6cefef7621') in 0.078713 seconds
+  Import took 0.086327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021623 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '551d8495610eadcfded35d6cefef7621') in 0.075862 seconds
+  Import took 0.089301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.352512 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '530a8c38d10828d88fce6b3ee4a6fec9') in 0.183361 seconds
+  Import took 0.193381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '439a2771167b3327d34a9f17ed5b982a') in 0.097584 seconds
+  Import took 0.109478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.292179 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '3520a349781328e493d366472f5bad19') in 0.240001 seconds
+  Import took 0.267995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'da451d90ffc87df1332a5d5a998823e1') in 0.107830 seconds
+  Import took 0.114417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.151019 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '0596a459fff0a764ab2047ba72d6cd28') in 0.149271 seconds
+  Import took 0.158866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'deec2666e263211aa638082085236054') in 0.070707 seconds
+  Import took 0.076940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '23045bc8a796250082a8e042f8b7e5c0') in 0.049929 seconds
+  Import took 0.060848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.825480 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '6c1b85f62106437b39a87d340fddc5d8') in 0.174393 seconds
+  Import took 0.188079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Prefabs/wall with door.prefab
+  artifactKey: Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with door.prefab using Guid(97f33fc554fb40144b00cfa21dab4756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '5962ccc98b7fdca7f2e6b13ef7384ac8') in 0.082009 seconds
+  Import took 0.089741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001293 seconds.
+  path: Assets/Prefabs/Mooving Door.prefab
+  artifactKey: Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mooving Door.prefab using Guid(dd6b10c99a7980d4db595f53a773d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '95bc3d1d532a6a1ca1483fc43f57607d') in 0.054485 seconds
+  Import took 0.064509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.186736 seconds.
+  path: Assets/Prefabs/big wall with door.prefab
+  artifactKey: Guid(cd4dec559da0abf4f819e2df608c77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with door.prefab using Guid(cd4dec559da0abf4f819e2df608c77b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'f363ce92d8400e91811ea691333b8250') in 0.085082 seconds
+  Import took 0.100267 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.562 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.6 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 2.207000 ms (FindLiveObjects: 0.163400 ms CreateObjectMapping: 0.045800 ms MarkObjects: 1.923400 ms  DeleteObjects: 0.072900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 283.118296 seconds.
+  path: Assets/Animations/bars.controller
+  artifactKey: Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/bars.controller using Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f864edf44f83c5559a7a0c480b5fe') in 0.057361 seconds
+  Import took 0.059847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.118076 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '3499bca0f3d335d70e4ee97af4672962') in 0.161402 seconds
+  Import took 0.169093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '6eb8b465fbecfa2adb185625080479ab') in 0.065787 seconds
+  Import took 0.069742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '1566224c2176304f230435eadc773455') in 0.093115 seconds
+  Import took 0.102702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000779 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: '4308c18ba00b8e648fda468568581e83') in 0.121313 seconds
+  Import took 0.127029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (Door Axis) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+The Animator Controller (bars) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 332]
+
+ -> (artifact id: 'e049d4e64bfbfb7c6593a171ed70923a') in 0.184471 seconds
+  Import took 0.196872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.730686 seconds.
+  path: Assets/Animations/Open Cell Animation.anim
+  artifactKey: Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Cell Animation.anim using Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb74ac9263263c86dc5a733762c07bff') in 0.022505 seconds
+  Import took 0.029253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013195 seconds.
+  path: Assets/Animations/Open Cell Animation.anim
+  artifactKey: Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Cell Animation.anim using Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb74ac9263263c86dc5a733762c07bff') in 0.017250 seconds
+  Import took 0.025955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2356.640978 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b066bb0db67d7c200dcbd16295cb14') in 0.091238 seconds
+  Import took 0.096252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82cbf9064886435ea97974ac4663c552') in 0.070951 seconds
+  Import took 0.073890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f49ff15c0c11290106cdcc5076281c5') in 0.060849 seconds
+  Import took 0.064104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003749bcf91db43d9224d02c20dde9b6') in 0.107365 seconds
+  Import took 0.111849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d283000673e2527c3740888336acef') in 0.175693 seconds
+  Import took 0.181818 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1678.
+Total: 1.950000 ms (FindLiveObjects: 0.200400 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.639500 ms  DeleteObjects: 0.061000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.416087 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903a4cfc4880238d3122f38dd6b733c6') in 0.069307 seconds
+  Import took 0.071950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6cb1c39796ce4b5cd40f64c704d0d3') in 0.027844 seconds
+  Import took 0.031340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266e45c0ae8e4cf11385a99c92a4bf15') in 0.040289 seconds
+  Import took 0.043393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab13ca4be3dd282f0a9e3677b81fd38a') in 0.048463 seconds
+  Import took 0.051994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec69a2b8417c8aefd93542d5a1552c39') in 0.082142 seconds
+  Import took 0.088946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.143116 seconds.
+  path: Assets/Scripts/BarsAnim.cs
+  artifactKey: Guid(df83c6187ddca344d90ce7e501e446f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BarsAnim.cs using Guid(df83c6187ddca344d90ce7e501e446f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a32f3d6661ad050030f401bbd081e14') in 0.015978 seconds
+  Import took 0.018757 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001474 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.011 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 1.837600 ms (FindLiveObjects: 0.152400 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.577200 ms  DeleteObjects: 0.068300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.919 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.7 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1686.
+Total: 2.107100 ms (FindLiveObjects: 0.151600 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.862000 ms  DeleteObjects: 0.056600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.065530 seconds.
+  path: Assets/Scripts/BarsAnim.cs
+  artifactKey: Guid(df83c6187ddca344d90ce7e501e446f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BarsAnim.cs using Guid(df83c6187ddca344d90ce7e501e446f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01392f04b53d48128f0da6ffbafe0c25') in 0.007285 seconds
+  Import took 0.009841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.335941 seconds.
+  path: Assets/Scripts/DoorAnim.cs
+  artifactKey: Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorAnim.cs using Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a2720cf0846302908e6c846ea96256') in 0.009153 seconds
+  Import took 0.011750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025528 seconds.
+  path: Assets/Scripts/DoorAnim.cs
+  artifactKey: Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorAnim.cs using Guid(8a3c6642d4cb4d24fbbf53caab04b9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a2720cf0846302908e6c846ea96256') in 0.006237 seconds
+  Import took 0.008753 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.636 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1689.
+Total: 3.197300 ms (FindLiveObjects: 0.869700 ms CreateObjectMapping: 0.269500 ms MarkObjects: 1.965200 ms  DeleteObjects: 0.091500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.067316 seconds.
+  path: Assets/Animations/Open Cell Animation.anim
+  artifactKey: Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Cell Animation.anim using Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3521ba54d3eb64e79f56c9f4f01b5889') in 0.041227 seconds
+  Import took 0.046843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027298 seconds.
+  path: Assets/Animations/Open Cell Animation.anim
+  artifactKey: Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Cell Animation.anim using Guid(3281c4f81e1a43345b0234231e4eddeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3521ba54d3eb64e79f56c9f4f01b5889') in 0.020014 seconds
+  Import took 0.028389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.229447 seconds.
+  path: Assets/Animations/Open Door Animation.anim
+  artifactKey: Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Door Animation.anim using Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb411d2c84d51e74d6a68542fe2656a') in 0.050690 seconds
+  Import took 0.060655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006373 seconds.
+  path: Assets/Animations/Open Door Animation.anim
+  artifactKey: Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Open Door Animation.anim using Guid(ce6c69a7b1b63a9459506e4c80080e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb411d2c84d51e74d6a68542fe2656a') in 0.014426 seconds
+  Import took 0.018054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.119082 seconds.
+  path: Assets/Animations/Close Door Animation.anim
+  artifactKey: Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Door Animation.anim using Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f65d709d149070aa0e9f72746299db') in 0.044792 seconds
+  Import took 0.049839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015277 seconds.
+  path: Assets/Animations/Close Door Animation.anim
+  artifactKey: Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Door Animation.anim using Guid(bfedd0905ce0a3f488e6fb9444f61c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f65d709d149070aa0e9f72746299db') in 0.018869 seconds
+  Import took 0.026470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600682 seconds.
+  path: Assets/Animations/Close Cell Animation.anim
+  artifactKey: Guid(4c7c62fd6a9ef3040b813e3e5443512e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Cell Animation.anim using Guid(4c7c62fd6a9ef3040b813e3e5443512e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d3f983132c03d3c21502a5447f484e') in 0.056568 seconds
+  Import took 0.063073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016967 seconds.
+  path: Assets/Animations/Close Cell Animation.anim
+  artifactKey: Guid(4c7c62fd6a9ef3040b813e3e5443512e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Close Cell Animation.anim using Guid(4c7c62fd6a9ef3040b813e3e5443512e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d3f983132c03d3c21502a5447f484e') in 0.015355 seconds
+  Import took 0.025451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.764739 seconds.
+  path: Assets/Animations/bars.controller
+  artifactKey: Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/bars.controller using Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bebd9381732f5d6aaab99969e4d1b7') in 0.059767 seconds
+  Import took 0.073354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015025 seconds.
+  path: Assets/Animations/bars.controller
+  artifactKey: Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/bars.controller using Guid(bbad9d8b2b37cb44993dece135002c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bebd9381732f5d6aaab99969e4d1b7') in 0.036619 seconds
+  Import took 0.048212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.399696 seconds.
+  path: Assets/Animations/Door Axis.controller
+  artifactKey: Guid(94e16a14a1ec68145a9c2550b8a8feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door Axis.controller using Guid(94e16a14a1ec68145a9c2550b8a8feee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f91f19f7aca3bbd451caaf4a462e058') in 0.036316 seconds
+  Import took 0.040591 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002221 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1692.
+Total: 7.596500 ms (FindLiveObjects: 0.977900 ms CreateObjectMapping: 0.436400 ms MarkObjects: 6.047900 ms  DeleteObjects: 0.128600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.263987 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea01a9f797e8cbff9cc0007384f89eb1') in 0.120637 seconds
+  Import took 0.124423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3781e2c2a1caf1bd2631e3bee63cda') in 0.046605 seconds
+  Import took 0.053360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001150 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb5a986c096f5415668a2754f703ff3') in 0.077686 seconds
+  Import took 0.091957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f588b89d7d0949042b8a87beb3b3829e') in 0.125613 seconds
+  Import took 0.131811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580fd7952fe49568f07d4ecb18069050') in 0.203000 seconds
+  Import took 0.217315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.486 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1696.
+Total: 2.394700 ms (FindLiveObjects: 0.219800 ms CreateObjectMapping: 0.055800 ms MarkObjects: 2.048600 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.818746 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7589ae977179b798357594ba57ddab37') in 0.119937 seconds
+  Import took 0.125083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849443a59e037e5cfc1eb3019ac253e1') in 0.035170 seconds
+  Import took 0.040391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8e606519843c773e1ade90ccfd95eb') in 0.065107 seconds
+  Import took 0.079372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb0bf34ddbf1fc8248edf695557d0d6') in 0.109604 seconds
+  Import took 0.119154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002084 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162b71e3fb70dce12c5c512eadfb6215') in 0.167905 seconds
+  Import took 0.184461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.452832 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb487e82899f75f6d8784b6a0122142c') in 0.058215 seconds
+  Import took 0.066915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa4eb2b9d8324b3fa320a2d36352c18') in 0.085812 seconds
+  Import took 0.101413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002093 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f446267a9bb4d79189b540b604108d') in 0.094756 seconds
+  Import took 0.112723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249c21abe6fb2c74ae5516913dbee251') in 0.141081 seconds
+  Import took 0.147444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbb99122e448d0723d95d0acf575a079') in 0.341391 seconds
+  Import took 0.386665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.554149 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e3d96fc971ac9914c3755bec536a88') in 0.064860 seconds
+  Import took 0.073012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15656a8bc0ac94df5f31c05d1b5ce021') in 0.058094 seconds
+  Import took 0.062799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc05e65468681af07c7e67ff15afe694') in 0.049455 seconds
+  Import took 0.060435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000819 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af368cbebfbf1229be5a53918fcba601') in 0.106133 seconds
+  Import took 0.113849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2feb228f774d65770c8bdc3c4269a035') in 0.146100 seconds
+  Import took 0.161992 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002494 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 2.830400 ms (FindLiveObjects: 0.175200 ms CreateObjectMapping: 0.053000 ms MarkObjects: 2.518600 ms  DeleteObjects: 0.082100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.249114 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78db7c680e0e58a2d70af1003cc0d1e') in 0.119027 seconds
+  Import took 0.124734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7820db923a58d321b42d0cf965611119') in 0.047635 seconds
+  Import took 0.053357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5be321f3a5c4a44385c691ce7dfd5f') in 0.080242 seconds
+  Import took 0.090596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c87fe19aa44dd1b3d7138653bb31e49') in 0.120873 seconds
+  Import took 0.126130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000800 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02cb17955e2c37d73cea7efca2383711') in 0.184328 seconds
+  Import took 0.191561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.563560 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7f941ea8939552f49a2f2b70fa2d09') in 0.064245 seconds
+  Import took 0.072028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e907d99366661a68e93524acaf2843') in 0.047158 seconds
+  Import took 0.054202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115967c80fbe8a825689eb8c90462156') in 0.079697 seconds
+  Import took 0.086063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e6a0eb93973c2047702d50553d5872') in 0.112742 seconds
+  Import took 0.118400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e1880a81284a999105e9b7e87bda89') in 0.197506 seconds
+  Import took 0.220383 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.666 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.7 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1704.
+Total: 2.468900 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.058300 ms MarkObjects: 2.130800 ms  DeleteObjects: 0.068400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.638250 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12938c22b130a5b73a7163d729a12b4') in 0.153957 seconds
+  Import took 0.161954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ef2d357f93f7f3866ec1b6ac6b035e') in 0.027317 seconds
+  Import took 0.034139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b90d307a8abd05a49e14c7d325a5db05') in 0.055980 seconds
+  Import took 0.062584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000880 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9edfbc16538c7c25423e658a08ccdf') in 0.120822 seconds
+  Import took 0.126731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7672faf48592a82609de0a71269352c1') in 0.190704 seconds
+  Import took 0.200744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.958841 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad64c8a408a3e64e07727888f578279') in 0.032922 seconds
+  Import took 0.037908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2edf53b395853cc2fca05e9f77c85750') in 0.085989 seconds
+  Import took 0.090822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0820315ade49815ff22a96ff96b1d065') in 0.071248 seconds
+  Import took 0.075350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf9c8ccc1bd2cb43f08cf7987200e10e') in 0.128469 seconds
+  Import took 0.134079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000987 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fe3a9f7846b7a4c319d1c84ced5ae9') in 0.282365 seconds
+  Import took 0.306638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.267271 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c6cd8ad8a94ea52519c3e471ad0fe6') in 0.056596 seconds
+  Import took 0.064773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba929d23e85b20dc88c687c3ceda1174') in 0.035665 seconds
+  Import took 0.043921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7fc57a057d7d6a0ca0dd49861688d9') in 0.072069 seconds
+  Import took 0.080533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c7c33400b764d6af8332e9b5e9f03f') in 0.104485 seconds
+  Import took 0.112811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8a96799450f53415f2663f1e7f9f07') in 0.214480 seconds
+  Import took 0.226572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.615301 seconds.
+  path: Assets/Prefabs/bars.prefab
+  artifactKey: Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bars.prefab using Guid(d9d4530357a5b364b8138b7b1c755720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849610fc0a4e3b4b25245d267ab90e59') in 0.046864 seconds
+  Import took 0.054601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001008 seconds.
+  path: Assets/Prefabs/wall with bars.prefab
+  artifactKey: Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/wall with bars.prefab using Guid(42eb680233dfde44796f9ca12899a4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ecba5426241dd39dcd23aaf872eeb2') in 0.079938 seconds
+  Import took 0.084818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Prefabs/big wall with bars.prefab
+  artifactKey: Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/big wall with bars.prefab using Guid(6982bbc1e3b0b20409180ab00aeedbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747d734ff3a19f18c1287f3aad3a0640') in 0.056592 seconds
+  Import took 0.070869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003223 seconds.
+  path: Assets/Prefabs/cell.prefab
+  artifactKey: Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/cell.prefab using Guid(96434790be03b9d41ad463cb291bac42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45405b2f60f830b5d348909fc5da0147') in 0.102009 seconds
+  Import took 0.118933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Prefabs/completed floor.prefab
+  artifactKey: Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/completed floor.prefab using Guid(b3a6e8522dfe4b4489b35203fba4841e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31211c7543f1bc21cb729ba75e2358b') in 0.233028 seconds
+  Import took 0.248530 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001308 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1708.
+Total: 2.193000 ms (FindLiveObjects: 0.167300 ms CreateObjectMapping: 0.042100 ms MarkObjects: 1.907300 ms  DeleteObjects: 0.075300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.8 MB.
+System memory in use after: 63.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1711.
+Total: 3.301500 ms (FindLiveObjects: 0.409500 ms CreateObjectMapping: 0.117000 ms MarkObjects: 2.634400 ms  DeleteObjects: 0.137700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
